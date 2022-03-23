@@ -3696,6 +3696,9 @@ fieldset:disabled .btn {
 .tab-content > .active {
     display: block;
 }
+.dropdown-toggle::before{
+    display: none !;
+}
 .navbar {
     position: relative;
     display: flex;
