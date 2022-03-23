@@ -162,7 +162,7 @@
 				display: none;
 			}
 			&::before {
-				content: '\f078';
+				// content: '\f078';
 				position: absolute;
 				font-family: "Font Awesome 5 pro";
 				font-size: 15px;
@@ -183,7 +183,7 @@
 		}
 		&:hover {
 			&>.nav-link {
-				color: $theme-color2;
+				// color: $theme-color2;
 			}
 		}
 	}
